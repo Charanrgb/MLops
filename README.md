@@ -14,10 +14,6 @@ This project focuses on streamlining the process of forecasting energy consumpti
 - [Setup & Installation](#️-setup--installation)
 - [Aim of the Project](#-aim-of-the-project)
 - [Results and Findings](#-results-and-findings)
-- [Acknowledgments](#-acknowledgments)
-- [Contact](#-contact)
-- [Related Publication](#-related-publication)
-- [Citation](#-citation)
 
 ## 📌 Introduction
 The core objective of this project is to develop and orchestrate an automated pipeline for forecasting energy consumption across eleven European countries, namely Belgium, Denmark, France, Germany, Greece, Italy, Luxembourg, Netherlands, Spain, Sweden, and Switzerland. The pipeline is specifically tailored for processing hourly energy consumption data.
@@ -144,35 +140,5 @@ The current deployed model was evaluated based on various metrics such as Mean S
 
 These findings and insights are instrumental for utility companies, policy-makers, and consumers in making informed decisions regarding energy consumption, production, and resource allocation.
 
-## 🙏 Acknowledgments
-
-This project was conducted as part of my thesis at the Athens University of Economics and Business, Department of Management Science and Technology.
-
-## 👥 Contact
-
-If you have any questions or would like to discuss this project, feel free to reach out:
-
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fpriovolos/)
-- Email: filippos.priovolos01@gmail.com
-
-## 📝 Related Publication
-
-This project is also the subject of a research paper that combines a theoretical and empirical approach. The paper dives into the details of the MLOps methodologies, techniques, and analysis involved in forecasting energy consumption with Azure Databricks 
-
-- **Title**: "Streamlining MLOps for Energy Consumption Forecasting, A Case Study"
-- **Authors**: Filippos Priovolos
-If you use the content of this repository or the related paper in your research, please consider citing as shown in the citation section.
-
-
-## 🧾 Citation
-
-If you use this project in your research or want to refer to it, please attribute it as follows:
-
-```bibtex
-@misc{author2023energy,
-  title={Streamlining MLOps for Energy Consumption Forecasting, A Case Study},
-  author={Filippos Priovolos},
-  year={2023},
-}
 
 
