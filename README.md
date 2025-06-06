@@ -1,4 +1,4 @@
-# Streamlining Energy Consumption Forecasting using MLOps
+# Scalable MLOps Pipeline for Energy Forecasting with Azure Databricks
 
 This project focuses on streamlining the process of forecasting energy consumption by employing Machine Learning Operations (MLOps). It integrates data engineering, machine learning algorithms, and automation to create a scalable and efficient forecasting system.
 
